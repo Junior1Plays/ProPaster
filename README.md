@@ -18,4 +18,4 @@ Antes de usar o ProPaster, certifique-se de verificar e configurar alguns parâm
 
 ---
 
-**Nota:** Este programa foi desenvolvido para fins educacionais e de automação. Certifique-se de utilizá-lo de forma ética e em conformidade com os termos de serviço das plataformas em que é aplicado. O desenvolvedor não se responsabiliza pelo uso indevido ou qualquer consequência resultante do uso deste software.
+**Nota:** Este programa foi desenvolvido para fins educacionais e de automação. Certifique-se de utilizá-lo de forma ética e em conformidade com os termos de serviço das plataformas em que é aplicado. O desenvolvedor não se responsabiliza pelo uso indevido ou qualquer consequência resultante do uso deste software/script.
